@@ -1,4 +1,5 @@
-[Link to issue here e.g. [MEMA-396]](https://homeservenow.atlassian.net/browse/)
+## JIRA Ticket [[MEMA-396]](https://homeservenow.atlassian.net/browse/)
+(Don't forget to also put this in the PR title and branch name)
 
 ## brief description of what's changed
 ## brief description of why it's changed
