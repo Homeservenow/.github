@@ -1,14 +1,14 @@
 ## JIRA Ticket [[MEMA-396]](https://homeservenow.atlassian.net/browse/)
-(Don't forget to also put this in the PR title and branch name)
+_(Don't forget to also put this in the PR title and branch name)_
 
-## brief description of what's changed
-## brief description of why it's changed
+## Brief description of what's changed
+## Brief description of why it's changed
 
-## refactored
+## Refactors
 (OPTIONAL): if you've tidied anything up, write it down
 
-## debt
+## Debt
 (OPTIONAL): if you noticed or weren't able to tidy something up, mention it here
 
-## screenshots
+## Screenshots
 (OPTIONAL): if you've changed part of the UI, provide screenshots here
