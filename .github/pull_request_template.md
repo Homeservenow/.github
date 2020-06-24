@@ -12,7 +12,7 @@ _(Don't forget to put the JIRA # e.g. HSND-123 in the PR title and branch name)_
 
 
 ### Debt
-(OPTIONAL): if you noticed or weren't able to tidy something up, mention it here
+(OPTIONAL): if you noticed or weren't able to tidy something up, mention it here. Please also consider creating a JIRA ticket for it to get addressed and to try quantify what benefit we get from fixing it
 
 
 ### Screenshots
