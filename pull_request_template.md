@@ -1,7 +1,7 @@
 _(Don't forget to put the JIRA # e.g. HSND-123 in the PR title and branch name)_
 
 ## Brief description of what's changing
-- [ ] Added thing 1
+- [x] Added thing 1
 - [ ] Fixed thing 2 
 
 ## Brief description of why it's changed
