@@ -1,4 +1,4 @@
-_(Don't forget to put the JIRA # e.g. HSND-123 in the PR title and branch name)_
+https://homeservenow.atlassian.net/browse/[JIRA-TICKET-ID]
 
 ## Brief description of what's changing
 - [ ] Added thing 1
